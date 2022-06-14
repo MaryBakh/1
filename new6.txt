@@ -1,0 +1,1 @@
+git config --global user.email imy1540@ya.ru
